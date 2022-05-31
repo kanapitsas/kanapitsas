@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanapitsas
-- 👀 I’m interested in Data Science and particularly Deep Learning.
+- 👀 I’m interested in Data Science and particularly Deep Learning. You can look at some [projects](/projects) I completed during my Master's degree.
 - 🌱 I’m currently learning full-stack single-page application development.
 
 <!---
