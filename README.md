@@ -22,7 +22,7 @@ Effortlessly manage projects together with GPT-4o. Features include drag-and-dro
 - **ML**: Pytorch, Pandas, sklearn, plotly
 - **Frontend**: Svelte 5 & SvelteKit
 - **Backend**: Node.js, Supabase
-- **Tools**: Git
+- **Tools**: Git, bash
 
 ---
 
