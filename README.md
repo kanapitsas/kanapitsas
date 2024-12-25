@@ -14,7 +14,7 @@ I'm a developer specializing in **AI-powered automation** and **modern web devel
 ### 🌟 Featured Project
 **AI-Enhanced Project Management Tool**
 Effortlessly manage projects with GPT-4-powered AI. Features include drag-and-drop task reordering, visual progress tracking, and a context-aware chat assistant for seamless updates. Built with SvelteKit, Supabase, and GPT-4o.
-[Explore the project](milestone-flow).
+[Explore the project](MilestoneFlow).
 
 ---
 
