@@ -1,33 +1,22 @@
 # 👋 Welcome to my GitHub!
 
-I'm a developer specializing in **AI-powered automation** and **modern web development** with a focus on **elegant design and impactful solutions**.
+I hold a master’s in applied mathematics and machine learning, and I specialize in building practical solutions for data-driven projects. If you have a tedious workflow, messy datasets, or an idea for AI-powered automation, I can help. I prefer small, focused projects with clear goals—cleaning a dataset, building a custom dashboard, or integrating an ML model into your existing stack. I keep it simple so you can get real value fast.
 
----
+**What I do**
+	•	data cleaning & visualization: from raw CSVs or APIs, I parse, transform, and create clear, interactive dashboards.
+	•	AI integration: ChatGPT/LLMs integration for automating repetitive tasks, building prototypes, or enhancing your workflow.
+	•	custom scripting: python or c++ scripts for specialized tasks, from quick prototypes to small-scale proof-of-concepts.
+	•	web dev: sleek, sveltekit-based web apps if you need a frontend to showcase or interact with your data.
 
-### 🚀 What I Do
-- **Intelligent Automation**: Integrating LLMs like GPT-4o to optimize workflows and simplify tedious tasks.
-- **Web Development**: Building sleek, responsive applications using SvelteKit.
-- **Data-Driven Insights**: Applying advanced ML techniques to solve real-world problems.
+**Why me**
+	•	hands-on: I build minimal, effective solutions—no over-engineering.
+	•	quick turnaround: I focus on smaller scopes first, so we can iterate fast and see results.
+	•	clear explanations: complex doesn’t mean confusing. I make sure you can maintain and scale your solution later.
 
----
+**Examples**
+	•	health data analysis: i’ve built custom scripts to extract, clean, and visualize apple health data for personal insights.
+	•	hiking data: a map-based visualization that blends geographical and heart data of a long thru-hike.
+	•	milestoneflow: an AI-powered project manager, featuring drag-and-drop tasks, context-aware chatgpt integration, and clean sveltekit design.
 
-### 🌟 Featured Project
-**MilestoneFlow**
-Effortlessly manage projects together with GPT-4o. Features include drag-and-drop task reordering, visual progress tracking, and a context-aware chat assistant for seamless updates. Built with SvelteKit, Supabase, and GPT-4o.
-
----
-
-### 🛠️ My Tech Stack
-- **General**: Python, C++
-- **ML**: Pytorch, Pandas, sklearn, plotly
-- **Frontend**: Svelte 5 & SvelteKit
-- **Backend**: Node.js, Supabase
-- **Tools**: Git, bash
-
----
-
-### 🌍 About Me
-I hold a **Master's in Applied Mathematics & Machine Learning**, blending technical expertise with adaptability. I’m fluent in multiple languages and thrive on crafting solutions that bridge AI and user-friendly interfaces.
-
-📬 **Let’s Collaborate!**  
-Feel free to reach out to discuss your project ideas or challenges.
+**Ready to chat?**
+If you have a small data project that needs quick results or an idea for an ai prototype, let’s talk. I’m all about delivering something tangible you can use right away. Email me at pro@rkan.org.
